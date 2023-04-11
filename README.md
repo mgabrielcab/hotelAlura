@@ -38,7 +38,6 @@ La aplicación fue creada desde cero como parte de la práctica en la capacitaci
 ![image](https://user-images.githubusercontent.com/87452372/231265629-67ddf9ce-88cb-4dda-90c0-8d17d33f6472.png)
 ![image](https://user-images.githubusercontent.com/87452372/231265717-7052a1ba-d59e-48c9-8ffd-8d5c241ed40a.png)
 ![image](https://user-images.githubusercontent.com/87452372/231265841-b285cf9e-b3c6-4ba3-9e91-0ae71e2fb7b1.png)
-![image](https://user-images.githubusercontent.com/87452372/231267974-278a014f-90c2-4771-827c-800f0e6f396e.png)
 [![Mi Medalla](https://user-images.githubusercontent.com/87452372/231267974-278a014f-90c2-4771-827c-800f0e6f396e.png)](https://mgabrielcab.github.io/)
 
 
